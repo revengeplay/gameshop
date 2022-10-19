@@ -3,6 +3,7 @@
 入社支援のため簡単なecommerceプロジェクトを作成しました。このプロジェクトはexpressでbackendを構成し、reactでfrontendを構成しました。
 使用される技術スタックは redux、mongoDB、tailwindCSS です。
 
+![20221019154210](https://user-images.githubusercontent.com/96066342/196621761-1977c720-9280-4f25-ba33-1bd6173cfa74.png)
 ![20221019154234](https://user-images.githubusercontent.com/96066342/196618235-5c8d3154-1dc7-4826-aa98-5d42bf3e33f0.png)
 ![20221019154243](https://user-images.githubusercontent.com/96066342/196618270-856a1eee-de7d-4e8c-8084-3d0eb8473953.png)
 上のnavbarと
